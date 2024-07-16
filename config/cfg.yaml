@@ -1,0 +1,22 @@
+#data_dir: '/mnt/d/work/uncertainty/data'
+#config_dir: '/mnt/d/work/uncertainty/config'
+#log_dir: '/mnt/d/work/uncertainty/log'
+
+data_dir: 'data'
+config_dir: 'config'
+log_dir: 'log'
+
+img_dir: '/mnt/d/dataset'
+
+notion: ''
+
+dataset: 'pie'
+#dataset: 'jaad'
+
+device: 'cuda:0'
+
+kps: True
+speed: True
+bbox: True
+polar: True
+
